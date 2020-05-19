@@ -1,0 +1,24 @@
+header{
+	background-color: #ECECEC;
+	text-align: center;
+	font-size: 35px;
+}
+
+body{
+	background-color: #0E5165;
+}
+
+body img{
+	margin-left: 20px;
+	border-radius: 150px;
+	border: 5px solid #FFFFFF
+}
+
+main h2{
+	text-align: right;
+	margin-top: 0;
+}
+
+main{
+	max-width: 800px;
+}
