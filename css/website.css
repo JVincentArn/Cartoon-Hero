@@ -1,24 +1,37 @@
+body{
+	background-color: #0E5165;
+	margin: 0px;
+}
+
+
 header{
-	background-color: #ECECEC;
+	padding: 5px 5px;
+	background-color: #0e5165;
 	text-align: center;
 	font-size: 35px;
 }
 
-body{
-	background-color: #0E5165;
+.aboutme{
+	text-align: right
+}
+
+h2, h3, h4{
+	font-size: 35px;
+}
+
+h2 p{
+	float: right;
 }
 
 body img{
+	float: left;
 	margin-left: 20px;
 	border-radius: 150px;
 	border: 5px solid #FFFFFF
 }
 
-main h2{
-	text-align: right;
-	margin-top: 0;
+
+h3{
+	text-align: left;
 }
 
-main{
-	max-width: 800px;
-}
