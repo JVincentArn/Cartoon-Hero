@@ -12,15 +12,22 @@ header{
 }
 
 .aboutme{
-	text-align: right
+	text-align: center;
+	margin: 0px 75px 0px 600px;
+	padding: 5px 10px 70px;
+	background-color: lightgrey;
+	border: black 4px solid;
 }
 
+.AboutJVincent{
+	border: black 4px solid;
+}
 h2, h3, h4{
-	font-size: 35px;
+	font-size: 40px;
 }
 
 h2 p{
-	float: right;
+	font-size: 600px;
 }
 
 body img{
